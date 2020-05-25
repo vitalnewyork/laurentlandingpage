@@ -1,168 +1,170 @@
 @charset "utf-8";
-@media only screen and (max-width: 766px) {
-  .socials {
-    margin-left: 25px !important;
-  }
+@media only screen and (max-width: 766px){
+	.socials{
+		margin-left: 25px !important;
+	}
+    
+    .profile{
+        width: 50%;
+        height: auto;
+        margin-top: 20px;
+    }
 }
 
-body {
-  width: 100%;
-  height: 100%;
-  background-repeat: no-repeat;
-  position: center;
+body{
+	width: 100%;
+	height: 100%;
+	background-repeat: no-repeat;
+	position: center;
 }
 
-.profile {
-  width: 50%;
-  height: auto;
-  max-width: 210px;
-  margin-top: 20px;
-  margin-left: 20px;
+.profile{
+	width: 210px;
+	height: 210px;
+	margin-top: 20px;
+	margin-left: 20px;
 }
 
-.name {
-  font-weight: 600;
-  margin-left: 20px;
-  margin-top: 10px;
+.name{
+    font-weight: 600;
+	margin-left: 20px;
+	margin-top: 10px;
 }
 
-.streams {
-  text-align: center;
+.streams{
+	text-align: center;
 }
 
-.spotify {
-  width: 35%;
-  height: auto;
-  max-width: 130px;
-  margin-top: 20px;
-  display: inline;
-  object-position: left;
-  margin-right: 80px;
+.spotify{
+	width: 130px;
+	height: 39px;
+	margin-top: 20px;
+	display: inline;
+	object-position: left;
+	margin-right: 80px;
 }
 
-.applemusic {
-  width: 35%;
-  height: auto;
-  max-width: 130px;
-  margin-top: 20px;
-  object-position: left;
-  margin-right: 80px;
+.applemusic{
+	width: 130px;
+	height: 50px;
+	margin-top: 20px;
+	object-position: left;
+	margin-right: 80px;
 }
 
-.tidal {
-  width: 35%;
-  height: auto;
-  max-width: 130px;
-  margin-top: 20px;
-  object-position: left;
-  margin-right: 80px;
+.tidal{
+	width: 130px;
+	height: 18px;
+	margin-top: 20px;
+	object-position: left;
+	margin-right: 80px;
 }
 
-.youtube {
-  width: 35%;
-  height: auto;
-  max-width: 130px;
-  margin-top: 20px;
-  object-position: left;
-  margin-right: 80px;
+.youtube{
+	width: 130px;
+	height: 28px;
+	margin-top: 20px;
+	object-position: left;
+	margin-right: 80px;
 }
 
-.soundcloud {
-  width: 35%;
-  height: auto;
-  max-width: 60px;
-  margin-top: 20px;
-  margin-right: 135px;
-  object-position: left;
+.soundcloud{
+	width: 60px;
+	height: 35px;
+	margin-top: 20px;
+	margin-right: 150px;
+	object-position: left;
 }
 
-.itunes {
-  width: 35%;
-  height: auto;
-  max-width: 130px;
-  margin-top: 20px;
-  object-position: left;
-  margin-right: 80px;
+
+.itunes{
+	width: 130px;
+	height: 50px;
+	margin-top: 20px;
+	object-position: left;
+	margin-right: 80px;
 }
 
-.google {
-  width: 35%;
-  height: auto;
-  max-width: 130px;
-  margin-top: 20px;
-  object-position: left;
-  margin-right: 80px;
+
+.google{
+	width: 130px;
+	height: 40px;
+	margin-top: 20px;
+	object-position: left;
+	margin-right: 80px;
 }
 
-.amazon {
-  width: 35%;
-  height: auto;
-  max-width: 130px;
-  margin-top: 35px;
-  object-position: left;
-  margin-right: 80px;
+.amazon{
+	width: 130px;
+	height: 40px;
+	margin-top: 35px;
+	object-position: left;
+	margin-right: 80px;
 }
 
-.btn {
-  background-color: #000000 !important;
-  display: inline;
-  object-position: right;
-  margin-top: 20px;
-  box-shadow: none !important;
-  text-transform: uppercase;
-  border: none !important;
+
+
+
+.btn{
+	background-color: #000000 !important;
+	display: inline;
+	object-position: right;
+	margin-top: 20px;
+	box-shadow: none !important;
+	text-transform: uppercase;
+	border: none !important;
 }
 
-.socials {
-  text-align: center;
-  margin-left: 25px;
+.socials{
+	text-align: center;
+	margin-left: 25px;
 }
 
-.socials:hover {
-  border: none;
-  overflow: hidden;
+.socials:hover{
+	border: none;
+	overflow: hidden;
 }
 
-a {
-  text-decoration: none !important;
+a{
+	text-decoration: none !important;
 }
 
-.instagram {
-  width: 25px;
-  height: 25px;
-  object-position: left;
-  margin-right: 10px;
+.instagram{
+	width: 25px;
+	height: 25px;
+	object-position: left;
+	margin-right: 10px;
 }
 
-.tiktok {
-  width: 25px;
-  height: 25px;
-  background: transparent;
-  object-position: left;
-  margin-right: 10px;
+.tiktok{
+	width: 25px;
+	height: 25px;
+	background: transparent;
+	object-position: left;
+	margin-right: 10px;
 }
 
-.twitter {
-  width: 25px;
-  height: 25px;
-  object-position: left;
-  margin-right: 10px;
+.twitter{
+	width: 25px;
+	height: 25px;
+	object-position: left;
+	margin-right: 10px;
 }
 
-.vital {
-  width: 100px;
-  height: 15px;
-  margin-top: 20px;
-  margin-left: 20px;
+.vital{
+	width: 100px;
+	height: 15px;
+	margin-top: 20px;
+	margin-left: 20px;
 }
 
-.copyright {
-  font-weight: 600;
-  margin-top: 20px;
-  margin-left: 20px;
-  text-transform: uppercase;
+.copyright{
+	font-weight: 600;
+	margin-top: 20px;
+	margin-left: 20px;
+	text-transform: uppercase;
 }
 
-.footer {
-  text-align: center;
+.footer{
+	text-align: center;
 }
