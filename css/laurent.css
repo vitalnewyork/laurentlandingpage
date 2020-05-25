@@ -3,7 +3,14 @@
 	.socials{
 		margin-left: 25px !important;
 	}
+    
+    .profile{
+        width: 50%;
+        height: auto;
+        margin-top: 20px;
+    }
 }
+
 
 
 body{
@@ -18,12 +25,6 @@ body{
 	height: 210px;
 	margin-top: 20px;
 	margin-left: 20px;
-    
-    @media only screen and (max-width: 766px){
-        width: 50%;
-        height: auto;
-        margin-top: 20px;
-    }
 }
 
 .name{
