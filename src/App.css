@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  background-color: #000 !important;
+  border: 0;
+  color: white;
+  text-transform: capitalize;
+}
