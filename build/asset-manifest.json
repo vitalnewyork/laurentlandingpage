@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7190fe51.chunk.css",
+    "main.js": "/static/js/main.8d796b1a.chunk.js",
+    "main.js.map": "/static/js/main.8d796b1a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ee543d75.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ee543d75.js.map",
+    "static/js/2.d266b333.chunk.js": "/static/js/2.d266b333.chunk.js",
+    "static/js/2.d266b333.chunk.js.map": "/static/js/2.d266b333.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.27bdc965277d646e6065b5b0516dcbac.js": "/precache-manifest.27bdc965277d646e6065b5b0516dcbac.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.7190fe51.chunk.css.map": "/static/css/main.7190fe51.chunk.css.map",
+    "static/js/2.d266b333.chunk.js.LICENSE.txt": "/static/js/2.d266b333.chunk.js.LICENSE.txt",
+    "static/media/amazon.png": "/static/media/amazon.c1b637fd.png",
+    "static/media/applemusic.svg": "/static/media/applemusic.0d25cc45.svg",
+    "static/media/google.png": "/static/media/google.0eea0236.png",
+    "static/media/instagram.png": "/static/media/instagram.0e84d592.png",
+    "static/media/itunes.svg": "/static/media/itunes.0f2a6908.svg",
+    "static/media/laurent.png": "/static/media/laurent.5e53d146.png",
+    "static/media/soundcloud.png": "/static/media/soundcloud.49e37e37.png",
+    "static/media/spotify.png": "/static/media/spotify.11dc437a.png",
+    "static/media/tiktok.svg": "/static/media/tiktok.690290e1.svg",
+    "static/media/vital.png": "/static/media/vital.7ee556c2.png",
+    "static/media/youtube.png": "/static/media/youtube.07b8560a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee543d75.js",
+    "static/js/2.d266b333.chunk.js",
+    "static/css/main.7190fe51.chunk.css",
+    "static/js/main.8d796b1a.chunk.js"
+  ]
+}
